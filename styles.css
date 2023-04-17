@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 
-.p1, .p3{
+p.p1, p.p3{
 	
      background-color : #eee
 	
 }
 
-.p1, .p3{
+p.p1, p.p3{
 	color :   #00f
 }
