@@ -1,11 +1,7 @@
 /*  your css code here. If applicable */
 
-p.p1, p.p3{
-	
-     background-color : #eee
-	
-}
-
-p.p1, p.p3{
-	color :   #00f
+.selector{
+	font-color: #00f;
+	background-color: #eee;
+	color: blue;
 }
